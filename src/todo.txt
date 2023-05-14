@@ -1,0 +1,3 @@
+//still to use or implement the css features of the login.
+//such that the password or the mail div or become opaque.
+// but for now it is good, might be developed into something better.
